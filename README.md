@@ -11,3 +11,5 @@ Fix linting errors
 Add new feature
 
 # Update tests
+
+# Add error handling
