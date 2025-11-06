@@ -17,3 +17,5 @@ Add new feature
 ## Update
 
 Add comments
+
+# Add new utility function
