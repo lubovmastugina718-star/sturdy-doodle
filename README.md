@@ -19,3 +19,7 @@ Add new feature
 Add comments
 
 # Add new utility function
+
+## Update
+
+Improve error messages
