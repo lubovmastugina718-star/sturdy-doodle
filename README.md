@@ -23,3 +23,7 @@ Add comments
 ## Update
 
 Improve error messages
+
+## Update
+
+Fix memory leak
