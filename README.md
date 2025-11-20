@@ -31,3 +31,7 @@ Fix memory leak
 ## Update
 
 Fix data parsing
+
+## Update
+
+Update dependencies
