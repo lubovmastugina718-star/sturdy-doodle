@@ -1,3 +1,5 @@
 node_modules/
 .env
 *.log
+
+# Update package.json
