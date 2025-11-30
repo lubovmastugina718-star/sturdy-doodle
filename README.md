@@ -35,3 +35,7 @@ Fix data parsing
 ## Update
 
 Update dependencies
+
+## Update
+
+Improve code readability
