@@ -39,3 +39,7 @@ Update dependencies
 ## Update
 
 Improve code readability
+
+## Update
+
+Add input validation
