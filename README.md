@@ -43,3 +43,7 @@ Improve code readability
 ## Update
 
 Add input validation
+
+## Update
+
+Fix data parsing
