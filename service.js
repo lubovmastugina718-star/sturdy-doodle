@@ -3,3 +3,5 @@ const service = () => {
 };
 
 # Update tests
+
+# Refactor code structure
