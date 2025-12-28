@@ -47,3 +47,7 @@ Add input validation
 ## Update
 
 Fix data parsing
+
+## Update
+
+Clean up code
