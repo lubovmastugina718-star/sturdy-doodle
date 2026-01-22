@@ -59,3 +59,7 @@ Add comments
 ## Update
 
 Update API documentation
+
+## Update
+
+Update .gitignore
